@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: CallRail
+Plugin Name: CallRail Phone Call Tracking
 Plugin URI: http://www.callrail.com/docs/wordpress
-Description: Dynamically swap CallRail phone numbers based on the referring source.
+Description: Dynamically swap CallRail tracking phone numbers based on the visitor's referring source.
 Author: Last Mile Metrics, LLC.
-Version: 0.2
+Version: 0.2.1
 Author URI: http://www.callrail.com
 */
 
