@@ -87,6 +87,6 @@ function callrail_options() {
 function callrail_footer() {
 	$api_key = get_option('masked_id_and_access_key');
 	if (trim($api_key)) {
-		echo "<script type=\"text/javascript\" src=\"//app.callrail.com/companies/{$api_key}/3/swap.js\"></script>";
+		echo "<script type=\"text/javascript\" src=\"//app.callrail.com/companies/{$api_key}/4/swap.js\"></script>";
 	}
 }
