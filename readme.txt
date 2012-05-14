@@ -1,6 +1,6 @@
 === CallRail Phone Call Tracking ===
-Contributors: callrail
-Tags: call tracking, call metrics, call tracking, analytics, seo, ppc, google adwords, conversion tracking, offline conversions, marketing optimization
+Contributors: apowellgt
+Tags: call tracking, analytics, seo, ppc, adwords, conversion tracking, optimization
 Requires at least: 3.0
 Tested up to: 3.3.1
 Stable tag: 0.3.2
