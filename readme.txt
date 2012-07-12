@@ -2,7 +2,7 @@
 Contributors: apowellgt
 Tags: call tracking, analytics, seo, ppc, adwords, conversion tracking, optimization
 Requires at least: 3.0
-Tested up to: 3.3.2
+Tested up to: 3.4.1
 Stable tag: 0.3.3
 
 Dynamically swap CallRail tracking phone numbers based on the visitor's referring source.
@@ -40,3 +40,7 @@ See the documentation at http://www.callrail.com/docs/wordpress/.
 = 0.3.3 =
 
 * Update to version 5 of the javascript tracking script (swap.js)
+
+= 0.3.4 =
+
+* Update to version 7 of the javascript tracking script (swap.js) and serve the script via the MaxCDN network (cdn.callrail.com).
