@@ -9,7 +9,7 @@ Dynamically swap CallRail tracking phone numbers based on the visitor's referrin
 
 == Description ==
 
-See the documentation at http://www.callrail.com/docs/wordpress/.
+See the documentation at http://www.callrail.com/docs/web-integration/wordpress-plugin/.
 
 == Installation ==
 
