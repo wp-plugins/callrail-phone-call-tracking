@@ -1,15 +1,15 @@
 === CallRail Phone Call Tracking ===
-Contributors: callrail
-Tags: call tracking, call metrics, call tracking, analytics, seo, ppc, google adwords, conversion tracking, offline conversions, marketing optimization
+Contributors: apowellgt
+Tags: call tracking, analytics, seo, ppc, adwords, conversion tracking, optimization
 Requires at least: 3.0
-Tested up to: 3.3.1
-Stable tag: 0.3.1
+Tested up to: 3.5.1
+Stable tag: 0.3.7
 
 Dynamically swap CallRail tracking phone numbers based on the visitor's referring source.
 
 == Description ==
 
-See the documentation at http://www.callrail.com/docs/wordpress/.
+See the documentation at http://www.callrail.com/docs/web-integration/wordpress-plugin/.
 
 == Installation ==
 
@@ -32,3 +32,27 @@ See the documentation at http://www.callrail.com/docs/wordpress/.
 = 0.3.1 =
 
 * Update to version 3 of the javascript tracking script (swap.js)
+
+= 0.3.2 =
+
+* Update to version 4 of the javascript tracking script (swap.js) which supports more advanced number replacement.
+
+= 0.3.3 =
+
+* Update to version 5 of the javascript tracking script (swap.js)
+
+= 0.3.4 =
+
+* Update to version 7 of the javascript tracking script (swap.js) and serve the script via the MaxCDN network (cdn.callrail.com).
+
+= 0.3.5 =
+
+* Update to version 8 of the javascript tracking script (swap.js).
+
+= 0.3.6 =
+
+* Update to version 10 of the javascript tracking script (swap.js).
+
+= 0.3.7 =
+
+* Add a HTML comment so the CallRail support team can see when swap.js is installed via WordPress.
