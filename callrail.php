@@ -87,7 +87,7 @@ function callrail_options() {
 function callrail_footer() {
 	$api_key = get_option('masked_id_and_access_key');
 	if (trim($api_key)) {
-    echo "<!-- CallRail WordPress Integraton -->";
-		echo "<script type=\"text/javascript\" src=\"//cdn.callrail.com/companies/{$api_key}/10/swap.js\"></script>";
+    echo "\r\n<!-- CallRail WordPress Integraton -->\r\n";
+    echo "<script type=\"text/javascript\" src=\"//cdn.callrail.com/companies/{$api_key}/10/swap.js\"></script>\r\n\r\n";
 	}
 }
