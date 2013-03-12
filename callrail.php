@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: CallRail Phone Call Tracking
-Plugin URI: http://www.callrail.com/docs/wordpress
+Plugin URI: http://www.callrail.com/docs/web-integration/wordpress-plugin/
 Description: Dynamically swap CallRail tracking phone numbers based on the visitor's referring source.
 Author: Last Mile Metrics, LLC.
 Version: 0.3.6
