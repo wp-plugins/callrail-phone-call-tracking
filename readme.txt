@@ -1,5 +1,6 @@
 === CallRail Phone Call Tracking ===
 Contributors: apowellgt
+Donate link: http://www.callrail.com/
 Tags: call tracking, analytics, seo, ppc, adwords, conversion tracking, optimization
 Requires at least: 3.0
 Tested up to: 3.5.1
@@ -9,7 +10,12 @@ Dynamically swap CallRail tracking phone numbers based on the visitor's referrin
 
 == Description ==
 
-See the documentation at http://www.callrail.com/docs/web-integration/wordpress-plugin/.
+CallRail call tracking helps you identify the marketing channels that make the phone ring.  Our easy-to-install WordPress plugin allows you to dynamically swap the phone number displayed on your website based on how your visitors found your website.
+
+For example, if you have three tracking numbers: visitors from PPC, visitors from Organic Search, and direct visitos, just install the WordPress plugin, create the tracking phone numbers, and we’ll automatically replace the phone number on your website with the appropriate tracking phone number.
+
+* Learn more about CallRail at http://www.callrail.com
+* See the WordPress plugin documentation at http://www.callrail.com/docs/web-integration/wordpress-plugin/
 
 == Installation ==
 
